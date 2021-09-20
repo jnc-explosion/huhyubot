@@ -239,4 +239,4 @@ client.on('messageCreate', async msg => {
 
 
 
-client.login('ODYwMDY4NTkwMjA3ODkzNTE0.YN13Sw.UsTMi7YwyL7MYNjKvc_tx7mY2XM');
+client.login('!token');
